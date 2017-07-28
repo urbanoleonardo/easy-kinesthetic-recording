@@ -1,6 +1,8 @@
 # easy-kinesthetic-recording
 Scripts and instructions to easily record data from kinesthetic demonstrations as rosbags and convert to matlab format.
 
+TODO: Add dependencies file
+
 ---
 ### Kinesthetic Demonstration Recording:
 To record/replay(bag) demonstrations you must install these packages:
