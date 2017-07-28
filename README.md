@@ -36,7 +36,8 @@ rosrun rqt_bhand rqt_bhand
 ### Instructions
 ##### Launch rviz to visualize Robot state :
 ```
-$ roslaunch kuka_lwr_bringup lwr2_tabletop.launch robot_urdf_name:=kuka_grav_comp.xacro
+$ roslaunch kuka_lwr_bringup lwr2_tabletop.launch robot_urdf_name:=kuka_grav_comp.xacro realtime:=false
+
 ```
 
 ##### Run KUKA Bridge to stream joint data:
